@@ -5,6 +5,13 @@ Install Docker on Ubuntu using Docker’s **official** repository.
 This script asks for an **install mode at the start** and installs Docker based on that choice.
 
 ---
+## 🎥 Video Tutorial
+
+A step-by-step video walkthrough of this project is available on YouTube:  
+👉 https://youtu.be/HTRxW7JWz8Q
+
+The video explains how to use the script and shows the full installation process in real time.
+
 
 ## Features
 
